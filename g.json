@@ -1,34 +1,6 @@
 [
 	{
 		"id": 1,
-		"date": "2023-06-05",
-		"day": "05",
-		"month": "Juni",
-		"year": "2023",
-		"location": "Große Freiheit",
-		"address": "Hierundda 12, 23233 Hamburg",
-		"begin": "20:00",
-		"price": 12,
-		"description": "Lorem ipsum and so forth. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ratione vitae eos hic cupiditate unde inventore quam ipsum suscipit.",
-		"link": "https://www.grossefreiheit.de/",
-		"coordinates": "4,3"
-	},
-	{
-		"id": 2,
-		"date": "2023-07-23",
-		"day": "23",
-		"month": "Juli",
-		"year": "2023",
-		"location": "Dies eine Festival",
-		"address": "Dort 34, 24241 Flensburg",
-		"begin": "17:00",
-		"price": 25,
-		"description": "Lorem ipsum and so on. Lorem unde inventore quam ipsum suscipit.",
-		"link": "https://www.diesfestival.de/",
-		"coordinates": "4,3"
-	},
-	{
-		"id": 1,
 		"date": "2999-12-31",
 		"day": "31",
 		"month": "December",
