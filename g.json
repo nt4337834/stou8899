@@ -12,5 +12,19 @@
 		"description": "Lorem ipsum.",
 		"link": "https://www./",
 		"coordinates": "99,99"
+	},
+	{
+		"id": 2,
+		"date": "2023-06-09",
+		"day": "9",
+		"month": "Juni",
+		"year": "2023",
+		"location": "Eiscafé Dante",
+		"address": "Wilhelmstr. 2, 21698 harsefeld",
+		"begin": "19:00",
+		"price": ,
+		"description": "",
+		"link": "",
+		"coordinates": ""
 	}
 ]
